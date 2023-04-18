@@ -1,0 +1,14 @@
+.nav a{ 
+    margin-left: 10px; 
+   
+} 
+.nav{ 
+    background-color: #fff; 
+    height: 50px; 
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    border-radius: 10px; 
+    width: 200px;
+    margin-bottom: 40px;
+}
